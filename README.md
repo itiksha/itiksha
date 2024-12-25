@@ -12,4 +12,5 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channel" height="30" width="40" />
 </a>
 <a href="https://mavenanalytics.io/profile/1861d310-3041-7089-b35e-484813aa897e" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mavenanalytics.svg" alt="Portfolio" height="30" width="40" /></a>  
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio" height="30" width="40" />
+</a>
